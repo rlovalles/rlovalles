@@ -15,7 +15,7 @@
 ---
 
 ### **What I'm working toward**
-- I'm pursuing software engineering in defense and aerospace environments where what you build actually has to work.
+- I'm pursuing engineering in defense and aerospace environments where what you build actually has to work.
 ---
 
 ### **Currently learning** :books:
