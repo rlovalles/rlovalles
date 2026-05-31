@@ -1,8 +1,8 @@
-# Hi, I'm Rebecca Ovalles :ramen:
+# Hi, I'm Rebecca :ramen:
 
 *CS student at WGU who likes building things I can actually see working. Most of my time lately has been spent in the terminal, working through Java projects and figuring out why Docker isn't doing what I told it to.*
 
-📍 **Colorado Springs, CO**  |  [Email Me](mailto:rebovalles@gmail.com)
+📍 **Colorado Springs, CO**  |  [Email Me](mailto:rebovalles@gmail.com)  |  **[LinkedIn](https://www.linkedin.com/in/rebovalles)
 
 ---
 
@@ -25,8 +25,3 @@
 
 ### **GitHub Stats**
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=rlovalles&show_icons=true&theme=radical) 
-
----
-
-### 🗨️ **Let's connect** 
-- **[LinkedIn](https://www.linkedin.com/in/rebovalles)
