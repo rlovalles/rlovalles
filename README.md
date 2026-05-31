@@ -1,27 +1,25 @@
 # Hi, I'm Rebecca Ovalles :ramen:
-**IT Support Engineer → Aspring DevOps Specialist**
 
-*"By day, I fix tech problems. By night, I automate the boring stuff."*
+*CS student at WGU who likes building things I can actually see working. Most of my time lately has been spent in the terminal, working through Java projects and figuring out why Docker isn't doing what I told it to.*
 
-📍 **Colorado Springs, CO**  |  [Email Me](mailto:reblynmcm@gmail.com)
+📍 **Colorado Springs, CO**  |  [Email Me](mailto:rebovalles@gmail.com)
 
 ---
 
 ### **What I Bring to the Table**
-- **Cloud & Scripting:** Azure, PowerShell, Bash
-- **CI/CD & IaC:** GitHub Actions, Terraform (learning)
-- **OS & Security:** Linux (LPI Certified), Windows
-- **Mindset:** Obsessed with turning manual processes into code.
+- **Languages:** Java, Typescript
+- **Frontend:** Angular
+- **Backend:** Spring Boot, Hibernate
+- **Tools:** Docker, IntelliJ, Git
 
 ---
 
-### **Featured Projects**
-
+### **What I'm working toward**
+- I'm pursuing software engineering in defense and aerospace environments where what you build actually has to work.
 ---
 
 ### **Currently learning** :books:
-- **Terraform Modules** (building my first reusable config)
-- **Kubernetes** (just starting-follow my progress!)
+- Sharpening my back-end skills and diving deeper in DevSecOps.
 
 ---
 
@@ -30,6 +28,5 @@
 
 ---
 
-### 🗨️ **How I Can Help You** 
-- **Need a collaborator?** I'm eager to contribute to open-source DevOps tools.
-- **Hiring?** Let's chat about how my problem-solving skills can fit your team!
+### 🗨️ **Let's connect** 
+- **[LinkedIn](https://www.linkedin.com/in/rebovalles)
