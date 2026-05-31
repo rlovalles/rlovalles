@@ -2,7 +2,7 @@
 
 *CS student at WGU who likes building things I can actually see working. Most of my time lately has been spent in the terminal, working through Java projects and figuring out why Docker isn't doing what I told it to.*
 
-📍 **Colorado Springs, CO**  |  [Email Me](mailto:rebovalles@gmail.com)  |  **[LinkedIn](https://www.linkedin.com/in/rebovalles)
+📍 **Colorado Springs, CO**  |  [Email Me](mailto:rebovalles@gmail.com)  |  [LinkedIn](https://www.linkedin.com/in/rebovalles)
 
 ---
 
