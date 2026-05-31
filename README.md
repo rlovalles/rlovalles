@@ -20,8 +20,3 @@
 
 ### **Currently learning** :books:
 - Sharpening my back-end skills and diving deeper in DevSecOps.
-
----
-
-### **GitHub Stats**
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=rlovalles&show_icons=true&theme=radical) 
