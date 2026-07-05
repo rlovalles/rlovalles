@@ -1,9 +1,10 @@
 # Hi, I'm Rebecca :ramen:
 
-*CS student at WGU who likes building things I can actually see working. Most of my time lately has been spent in the terminal, working through Python projects and figuring out why Docker isn't doing what I told it to.*
+*CS senior at WGU who likes building things I can actually see working. Most of my time lately has been spent in the terminal, working through Python projects and figuring out why Docker isn't doing what I told it to.*
 
 📍 **Colorado Springs, CO**  |  [Email Me](mailto:rebovalles@gmail.com)  |  [LinkedIn](https://www.linkedin.com/in/rebovalles)
 
+> Some of my repos are currently private due to academic integrity policies at WGU. I am happy to share access to recruiters or employers, upon request. Feel free to reach out via email or LinkedIn.
 ---
 
 ### **What I Bring to the Table**
