@@ -8,19 +8,20 @@
 ---
 
 ### **What I Bring to the Table**
-- **Languages:** Java, Python, C++, Typescript
+- **Languages:** Java, Python, C++, TypeScript
 - **Frontend:** Angular, Next.js, HTML, CSS
-- **Backend:** Spring Boot, Hibernate, JPA
-- **Data:** PostgreSQL, MySQL, ETL Pipelines
-- **Tools & DevOps:** Docker, Git, GitLab, AWS S3, Bash, Linux (LPI Certified)
+- **Backend:** Spring Boot, Hibernate, JPA, REST APIs
+- **Data:** PostgreSQL, MySQL, ETL Pipelines, SQL
+- **DevOps & Infrastructure:** Docker, Kubernetes, kubectl, Git, GitLab, AWS S3, Linux (LPI Certified)
 
 ---
 
 ### **What I'm working toward**
-- I'm pursuing software engineering roles in defense and aerospace.
+- I'm pursuing software engineering roles in defense and aerospace with a focus on backend development, containerization, and DevSecOps. 
 ---
 
 ### **Recent Projects**
-- **Dark Phoenix:** AI-powered video clipping platform built with Next.js, Modal, AWS S3, Supabase, and Vercel. Live at rebecca-ovalles.vercel.app
+- **Task Manager API — Kubernetes:** Spring Boot REST API containerized with Docker and deployed to Kubernetes with 2 replicas. Full CRUD endpoints, PostgreSQL database, and production-style infrastructure.
 - **Portfolio Website:** Personal portfolio built with Angular, deployed on Vercel.
+- **Dark Phoenix:** AI-powered video clipping platform built with Next.js, Modal, AWS S3, Supabase, and Vercel. Live at rebecca-ovalles.vercel.app
 - **Package Routing Program:** Python delivery routing system using a custom hash table and nearest-neighbor algorithm.
