@@ -22,6 +22,4 @@
 
 ### **Recent Projects**
 - **Task Manager API — Kubernetes:** Spring Boot REST API containerized with Docker and deployed to Kubernetes with 2 replicas. Full CRUD endpoints, PostgreSQL database, and production-style infrastructure.
-- **Portfolio Website:** Personal portfolio built with Angular, deployed on Vercel.
-- **Dark Phoenix:** AI-powered video clipping platform built with Next.js, Modal, AWS S3, Supabase, and Vercel. Live at rebecca-ovalles.vercel.app
 - **Package Routing Program:** Python delivery routing system using a custom hash table and nearest-neighbor algorithm.
